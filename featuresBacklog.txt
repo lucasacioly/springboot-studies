@@ -2,3 +2,4 @@
 Atualizado em 2026-02-23 05:42:25.563711
 
 Atualizado em 2026-02-23 05:53:41.478726
+Feature: Implementar autenticação JWT para segurança das APIs REST.
