@@ -1,0 +1,21 @@
+Passo 1: Baixar as imagens do PostgreSQL
+
+	docker pull postgres:latest
+	docker pull postgres:latest
+
+Passo 2: Criar uma rede Docker
+
+	docker network create --driver bridge estudosNetwork
+
+Passo 3: Criar e iniciar os containers PostgreSQL
+
+	docker run --name postgres1 --network=estudosNetwork -e POSTGRES_USER=user1 -e POSTGRES_PASSWORD=pass1 -e POSTGRES_DB=db1 -d postgres:latest
+	docker run --name postgres2 --network=estudosNetwork -e POSTGRES_USER=user2 -e POSTGRES_PASSWORD=pass2 -e POSTGRES_DB=db2 -d postgres:latest
+
+Passo 4: Verificar se os containers estão em execução
+
+	docker ps
+
+
+
+

@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  postgres1:
+    image: postgres:latest
+    container_name: pgEstudos1
+    environment:
+      POSTGRES_USER: user1
+      POSTGRES_PASSWORD: pass1
+      POSTGRES_DB: db1
+    networks:
+      - estudosNetwork
+    ports:
+      - "5431:5432"  # Mapeia a porta 5432 do container para a porta 5431 do host
+
+  postgres2:
+    image: postgres:latest
+    container_name: pgEstudos2
+    environment:
+      POSTGRES_USER: user2
+      POSTGRES_PASSWORD: pass2
+      POSTGRES_DB: db2
+    networks:
+      - estudosNetwork
+    ports:
+      - "5432:5432"  # Mapeia a porta 5432 do container para a porta 5432 do host
+
+networks:
+  estudosNetwork:
+    driver: bridge
