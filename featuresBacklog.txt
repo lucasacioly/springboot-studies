@@ -1,0 +1,1 @@
+Feature: Implementar autenticação JWT para segurança das APIs.
