@@ -1,1 +1,2 @@
 Feature: Implementar autenticação JWT para segurança da API REST.
+Feature: Implementar autenticação JWT para segurança da API REST.
