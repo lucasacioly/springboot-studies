@@ -1,3 +1,4 @@
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Implementar autenticação OAuth2 com Spring Security para proteger APIs REST.
+Feature: Implementar autenticação OAuth2 para segurança da aplicação.
