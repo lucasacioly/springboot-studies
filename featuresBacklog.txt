@@ -4,3 +4,4 @@ Feature: Implementar autenticação OAuth2 com Spring Security para proteger API
 Feature: Implementar autenticação OAuth2 para segurança da aplicação.
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Uma API REST para gerenciamento de usuários com autenticação JWT.
+Feature: Integração com banco de dados PostgreSQL para persistência de dados.
