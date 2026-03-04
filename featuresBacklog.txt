@@ -6,3 +6,4 @@ Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Uma API REST para gerenciamento de usuários com autenticação JWT.
 Feature: Integração com banco de dados PostgreSQL para persistência de dados.
 Feature: Implementar autenticação JWT para segurança da API.
+Feature: Uma API REST para gerenciar usuários e suas preferências de estudo.
