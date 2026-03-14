@@ -11,3 +11,4 @@ Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Adicionar autenticação OAuth2 com Spring Security para proteger endpoints.
 Feature: Implementar autenticação JWT para proteger APIs REST no projeto.
 Feature: Uma funcionalidade para o projeto springboot-studies é a criação de um sistema de autenticação JWT.
+Feature: Uma funcionalidade útil poderia ser a implementação de autenticação OAuth2 com Spring Security.
