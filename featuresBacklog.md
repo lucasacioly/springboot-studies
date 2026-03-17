@@ -14,3 +14,4 @@ Feature: Uma funcionalidade para o projeto springboot-studies é a criação de 
 Feature: Uma funcionalidade útil poderia ser a implementação de autenticação OAuth2 com Spring Security.
 Feature: Sistema de autenticação com JWT para segurança das APIs REST.
 Feature: Implementar sistema de autenticação com Spring Security.
+Feature: Um sistema de gerenciamento de tarefas com autenticação JWT.
