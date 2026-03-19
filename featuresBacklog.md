@@ -17,3 +17,4 @@ Feature: Implementar sistema de autenticação com Spring Security.
 Feature: Um sistema de gerenciamento de tarefas com autenticação JWT.
 Feature: Implementar autenticação OAuth2 para segurança na aplicação.
 Feature: Uma API REST para gerenciar usuários e suas tarefas.
+Feature: Implementar autenticação OAuth2 para segurança da aplicação.
