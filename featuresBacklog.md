@@ -20,3 +20,4 @@ Feature: Uma API REST para gerenciar usuários e suas tarefas.
 Feature: Implementar autenticação OAuth2 para segurança da aplicação.
 Feature: Uma funcionalidade interessante seria a integração com API REST para gerenciamento de usuários.
 Feature: Uma API REST para gerenciar usuários e suas permissões em uma aplicação Spring Boot.
+Feature: Implementar autenticação JWT para segurança da API REST.
