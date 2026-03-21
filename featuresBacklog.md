@@ -22,3 +22,4 @@ Feature: Uma funcionalidade interessante seria a integração com API REST para 
 Feature: Uma API REST para gerenciar usuários e suas permissões em uma aplicação Spring Boot.
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Adicionar sistema de autenticação JWT para segurança da API.
+Feature: Adicionar autenticação OAuth2 com Spring Security para proteger endpoints.
