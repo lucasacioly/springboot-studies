@@ -30,3 +30,4 @@ Feature: Adicionar autenticação OAuth2 para segurança da API REST.
 Feature: Sistema de autenticação com JWT para proteger endpoints REST.
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Implementar autenticação JWT para segurança nas APIs REST.
+Feature: Adicionar autenticação OAuth2 para segurança e gerenciamento de usuários.
