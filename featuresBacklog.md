@@ -31,3 +31,4 @@ Feature: Sistema de autenticação com JWT para proteger endpoints REST.
 Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Implementar autenticação JWT para segurança nas APIs REST.
 Feature: Adicionar autenticação OAuth2 para segurança e gerenciamento de usuários.
+Feature: Um sistema de autenticação OAuth2 para aplicações Spring Boot.
