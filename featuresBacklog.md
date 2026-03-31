@@ -34,3 +34,4 @@ Feature: Adicionar autenticação OAuth2 para segurança e gerenciamento de usu�
 Feature: Um sistema de autenticação OAuth2 para aplicações Spring Boot.
 Feature: Uma funcionalidade para o projeto springboot-studies é a criação de um sistema de autenticação com JWT.
 Feature: Implementar sistema de autenticação JWT para segurança da API.
+Feature: Implementar autenticação JWT para segurança da API REST.
