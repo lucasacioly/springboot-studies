@@ -42,4 +42,3 @@ Feature: Adicionar autenticação JWT para proteger endpoints da API.
 Feature: Adicionar autenticação JWT para proteger endpoints da API.
 Feature: Adicionar autenticação JWT para proteger endpoints da API.
 Feature: Implementar autenticação JWT para segurança nas APIs REST.
-Feature: Adicionar autenticação OAuth2 para proteger endpoints da API.
