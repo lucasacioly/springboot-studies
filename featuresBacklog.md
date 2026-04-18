@@ -38,4 +38,3 @@ Feature: Implementar autenticação JWT para segurança da API REST.
 Feature: Implementar autenticação JWT para segurança nas APIs do projeto.
 Feature: Implementar autenticação JWT para proteger endpoints da API.
 Feature: Implementar autenticação JWT para segurança nas APIs do projeto.
-Feature: Adicionar autenticação JWT para proteger endpoints da API.
