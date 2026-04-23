@@ -40,3 +40,4 @@ Feature: Implementar autenticação JWT para proteger endpoints da API.
 Feature: Implementar autenticação JWT para segurança nas APIs do projeto.
 Feature: Integração com Swagger UI para documentação automática das APIs REST.
 Feature: Integração com PostgreSQL para gerenciamento avançado de dados.
+Feature: Integração com PostgreSQL para gerenciamento avançado de dados e migrações automatizadas.
