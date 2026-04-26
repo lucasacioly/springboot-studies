@@ -43,3 +43,4 @@ Feature: Integração com PostgreSQL para gerenciamento avançado de dados.
 Feature: Integração com PostgreSQL para gerenciamento avançado de dados e migrações automatizadas.
 Feature: Integração com Swagger UI para documentação automática das APIs.
 Feature: Integração com OAuth2 para autenticação segura via provedores externos.
+Feature: Implementar autenticação JWT com refresh token para APIs RESTful.
