@@ -46,3 +46,4 @@ Feature: Integração com OAuth2 para autenticação segura via provedores exter
 Feature: Implementar autenticação JWT com refresh token para APIs RESTful.
 Feature: Integração com Swagger UI para documentação automática das APIs.
 Feature: Implementar autenticação JWT para proteger APIs REST.
+Feature: Integração automática de testes unitários com geração de relatórios em PDF.
