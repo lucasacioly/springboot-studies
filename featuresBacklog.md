@@ -52,3 +52,4 @@ Feature: Implementar autenticação OAuth2 com login via Google e Facebook.
 Feature: Implementar integração com PostgreSQL e testes automatizados usando Testcontainers.
 Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Integração com Swagger UI para documentação automática das APIs.
+Feature: Implementar autenticação JWT para proteger APIs RESTful.
