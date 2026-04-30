@@ -54,4 +54,3 @@ Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Integração com Swagger UI para documentação automática das APIs.
 Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Integração com Swagger UI para documentação automática das APIs REST.
-Feature: Implementação de API REST para gerenciamento de notas de estudo com JWT.
