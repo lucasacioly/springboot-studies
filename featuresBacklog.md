@@ -54,3 +54,4 @@ Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Integração com Swagger UI para documentação automática das APIs.
 Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Implementar suporte a testes automatizados com JUnit e MockMvc para endpoints REST.
+Feature: Integração com OAuth2 para autenticação segura via provedores externos.
