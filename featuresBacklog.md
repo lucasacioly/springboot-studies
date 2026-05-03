@@ -56,3 +56,4 @@ Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Implementar suporte a testes automatizados com JUnit e MockMvc para endpoints REST.
 Feature: Integração com OAuth2 para autenticação segura via provedores externos.
 Feature: Implementar autenticação JWT para proteger endpoints REST.
+Feature: Integração com JWT para autenticação e autorização de usuários.
