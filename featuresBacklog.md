@@ -58,4 +58,3 @@ Feature: Integração com OAuth2 para autenticação segura via provedores exter
 Feature: Implementar autenticação JWT para proteger endpoints REST.
 Feature: Integração com JWT para autenticação e autorização de usuários.
 Feature: Integração automática de testes unitários com geração de relatórios em tempo real.
-Feature: Implementação de testes automatizados com JUnit e MockMvc para validar endpoints REST.
