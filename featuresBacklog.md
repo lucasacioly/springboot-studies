@@ -61,3 +61,4 @@ Feature: Integração automática de testes unitários com geração de relatór
 Feature: Integração com Swagger para documentação automática das APIs REST.
 Feature: Implementação de autenticação OAuth2 com login via Google e Facebook.
 Feature: Implementar autenticação JWT para proteger APIs RESTful.
+Feature: Integração com banco de dados PostgreSQL usando Spring Data JPA.
