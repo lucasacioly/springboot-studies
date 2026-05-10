@@ -63,3 +63,4 @@ Feature: Implementação de autenticação OAuth2 com login via Google e Faceboo
 Feature: Implementar autenticação JWT para proteger APIs RESTful.
 Feature: Integração com banco de dados PostgreSQL usando Spring Data JPA.
 Feature: Integração com Swagger UI para documentação automática das APIs REST.
+Feature: Implementar autenticação JWT para APIs REST protegidas.
